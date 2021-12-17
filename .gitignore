@@ -13,6 +13,7 @@
 nbproject
 nbproject/private
 .vscode/
+
 .vs/
 
 # Node / Bower
@@ -69,3 +70,8 @@ TODO
 test.html
 ad.js
 /.cache/
+
+
+
+/vendor/
+
