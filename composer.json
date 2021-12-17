@@ -22,5 +22,8 @@
   "license": "MIT",
   "support": {
     "issues": "https://github.com/MassarCloud/AdminLTE-RTL-Updated/issues"
+  },
+  "require": {
+    "almasaeed2010/adminlte": "^3.1"
   }
 }
