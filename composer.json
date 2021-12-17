@@ -1,7 +1,7 @@
 {
-  "name": "almasaeed2010/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4",
-  "homepage": "https://adminlte.io/",
+  "name": "MassarCloud/AdminLTE-RTL-Updated",
+  "description": "AdminLTE-RTL-Updated - RTL of AdminLTE admin control panel and dashboard that's based on Bootstrap 4",
+  "homepage": "https://massarcloud.sa/",
   "keywords": [
     "css",
     "js",
@@ -11,7 +11,8 @@
     "template",
     "theme",
     "web",
-    "admin"
+    "admin",
+    "rtl"
   ],
   "authors": [
     {
@@ -20,6 +21,6 @@
   ],
   "license": "MIT",
   "support": {
-    "issues": "https://github.com/ColorlibHQ/AdminLTE/issues"
+    "issues": "https://github.com/MassarCloud/AdminLTE-RTL-Updated/issues"
   }
 }
