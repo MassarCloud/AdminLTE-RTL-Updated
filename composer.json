@@ -1,6 +1,6 @@
 {
-  "name": "MassarCloud/AdminLTE-RTL-Updated",
-  "description": "AdminLTE-RTL-Updated - RTL of AdminLTE admin control panel and dashboard that's based on Bootstrap 4",
+  "name": "massarcloud/adminlte-rtl-updated",
+  "description": "AdminLTE-RTL-Updated - RTL of AdminLTE admin control panel and dashboard that's based on Bootstrap 4, adminlte © Colorlib",
   "homepage": "https://massarcloud.sa/",
   "keywords": [
     "css",
@@ -16,7 +16,7 @@
   ],
   "authors": [
     {
-      "name": "Colorlib"
+      "name": "MassarCloud"
     }
   ],
   "license": "MIT",
